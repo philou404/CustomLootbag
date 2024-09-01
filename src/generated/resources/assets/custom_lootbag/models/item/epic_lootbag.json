@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom_lootbag:item/epic_lootbag"
+  }
+}
